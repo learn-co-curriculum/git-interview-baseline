@@ -11,8 +11,15 @@ The README has numerous areas for improvement.
 
 Please fork this repo and make edits to improe the README.md file.
 
-Leveragethe power of `git` to document your thought process. Upon completion, please
+Leverage the power of `git` to document your thought process. Upon completion, please
 email your Flatiron contact with the URL to your fork.
+
+## Collaboration / Research
+
+You are not to collaborate / review others' proposals / etc. Please make this your
+own work that shows how *you* think. Plagiarism is unacceptable, "lifting ideas"
+is unacceptable, "seeking inspiration" is unacceptable. The docs on `git` are
+permissible, of course!
 
 ## Preserve `git`
 
