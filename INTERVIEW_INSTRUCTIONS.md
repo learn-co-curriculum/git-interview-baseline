@@ -9,7 +9,7 @@ collaboration using `git`.
 
 The README has numerous areas for improvement.
 
-Please fork this repo and make edits to improe the README.md file.
+Please fork this repo and make edits to improve the `README.md` file.
 
 Leverage the power of `git` to document your thought process. Upon completion, please
 email your Flatiron contact with the URL to your fork.
